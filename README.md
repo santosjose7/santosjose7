@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HI+!+👋;+I AM+JOSEPH+MOKUA!;" />
 </h1>
 <br>
-## About Me
+## About Me <br>
 I am currently a student working on sharpening my skills in software development<br>i am a friendly guy who loves to meet new people and make friends<br>
 <br>Fun fact: i can write my name upside down!
 <br>Currenly learning web3
