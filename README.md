@@ -1,5 +1,5 @@
 
-## <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+GUYS!+!;+I+AM+JOSEPH+MOKUA;" />
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=HELLO+GUYS!+!;+I+AM+JOSEPH+MOKUA+(santosjose7);" />
 
 
 ## About Me 
