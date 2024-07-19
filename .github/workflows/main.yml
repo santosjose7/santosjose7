@@ -19,6 +19,10 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Ensure the dist directory exists
+      - name: Create dist directory
+        run: mkdir -p dist
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
