@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently a student working on sharpening my skills in software development<br>i am a friendly guy who loves to meet new people and make friends<br>
 <br>Fun fact: i can write my name upside down!
+<br>Currenly learning web3
 
 
 ## 🌐 Socials:
