@@ -1,13 +1,11 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=35&center=true&vCenter=true&width=600&height=90&duration=6000&lines=HELLO+THERE+!;+I+AM+JOSEPH+MOKUA+(santosjose7);" />
 
-
 ## About Me 
 I am an **AI enthusiast, developer, and automation innovator** passionate about creating next-gen solutions that merge intelligence, efficiency, and creativity.<br>
 I thrive on building **AI-powered systems, automation workflows, and intelligent applications** that push the boundaries of what technology can do.<br>
-<br>Always exploring cutting-edge tech, from **AI agents** to **automation pipelines**, and constantly refining my craft to deliver future-ready solutions.<br>
-<br>Fun fact: I can write my name upside down!
-<br>Currently exploring deeper integrations in **AI, Web3, and real-time systems**.
-
+<br>Always exploring cutting-edge tech — from **LLMs and multimodal AI** to **automation pipelines and real-time systems** — constantly refining my craft to deliver future-ready solutions.<br>
+<br>Fun fact: I can write my name upside down!  
+<br>Currently diving deeper into **AI agents, Web3 integrations, and real-time generative intelligence**.  
 
 <br><br>
 ## Socials
@@ -24,6 +22,19 @@ I thrive on building **AI-powered systems, automation workflows, and intelligent
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Anthropic Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white)  
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Meta LLaMA](https://img.shields.io/badge/LLaMA-0084FF?style=for-the-badge&logo=meta&logoColor=white)  
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF4A00?style=for-the-badge&logoColor=white)  
+![Perplexity](https://img.shields.io/badge/Perplexity-1B1F23?style=for-the-badge&logo=perplexity&logoColor=white)  
+![Grok](https://img.shields.io/badge/Grok-222222?style=for-the-badge&logo=x&logoColor=white)  
+![Stability AI](https://img.shields.io/badge/Stability_AI-FF6F61?style=for-the-badge&logo=stabilityai&logoColor=white)  
+![Runway](https://img.shields.io/badge/Runway_Gen3-00FF9C?style=for-the-badge&logoColor=black)  
+![Google Veo](https://img.shields.io/badge/Google_Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![OpenAI Sora](https://img.shields.io/badge/Sora-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Pika Labs](https://img.shields.io/badge/Pika_Labs-FFB000?style=for-the-badge&logoColor=black)  
+![MidJourney](https://img.shields.io/badge/MidJourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)  
+![DALL·E](https://img.shields.io/badge/DALL·E-74AA9C?style=for-the-badge&logo=openai&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
@@ -49,9 +60,11 @@ I thrive on building **AI-powered systems, automation workflows, and intelligent
 ![](https://github-readme-stats.vercel.app/api?username=santosjose7&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santosjose7&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santosjose7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santosjose7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -63,7 +76,6 @@ I thrive on building **AI-powered systems, automation workflows, and intelligent
   
   <br/><br/><br/>
 </div>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=santosjose7&limit=5&theme=radical&combine_all_yearly_contributions=true)
