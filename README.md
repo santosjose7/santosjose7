@@ -4,7 +4,7 @@
 I am an **AI enthusiast, developer, and automation innovator** passionate about creating next-gen solutions that merge intelligence, efficiency, and creativity.<br>
 I thrive on building **AI-powered systems, automation workflows, and intelligent applications** that push the boundaries of what technology can do.<br>
 <br>Always exploring cutting-edge tech — from **LLMs and multimodal AI** to **automation pipelines and real-time systems** — constantly refining my craft to deliver future-ready solutions.<br>
-<br>Fun fact: I can write my name upside down!  
+<br>
 <br>Currently diving deeper into **AI agents, Web3 integrations, and real-time generative intelligence**.  
 
 <br><br>
